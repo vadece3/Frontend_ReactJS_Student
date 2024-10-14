@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+
+# Getting Star
+
+https://github.com/user-attachments/assets/784ccacd-f22a-412e-8de0-c53066ef93d1
+
+ted with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
